@@ -8,6 +8,10 @@
 </p>
 
 
+## Updates  
+
+Added translation style  
+
 ## Introduction
 
 OpenAI Translator is an AI-powered translation tool designed to translate English PDF books to Chinese. The tool leverages large language models (LLMs) like ChatGLM and OpenAI's GPT-3 and GPT-3.5 Turbo for translation. It's built in Python and has a flexible, modular, and object-oriented design. 
